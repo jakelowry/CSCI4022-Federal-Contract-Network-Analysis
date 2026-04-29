@@ -1,4 +1,5 @@
 # Data files
 Contracts_PrimeAwardSummaries.csv
 contracts_cleaned.csv
+contracts_resolved.csv
 .DS_Store
