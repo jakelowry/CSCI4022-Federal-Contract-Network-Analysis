@@ -3,7 +3,7 @@
 **Author:** Jacob Lowry
 
 ## Overview
-Network analysis of FY2025 federal definitive contract award data from
+Network analysis of FY25 federal definitive contract award data from
 USAspending.gov. A multi-stage pipeline applies four course algorithms to
 uncover latent structure in federal procurement:
 
