@@ -21,8 +21,8 @@ independent of the clustering pipeline.
 
 ## Data
 Download from [USAspending.gov](https://www.usaspending.gov):
-- Time Period: FY2025
-- Award Type: Definitive Contracts
+- Time Period: FY25
+- Award Type: Contracts -> Subtype: Definitive Contracts
 - Level: Prime Award Summaries (Award-level, not Transaction-level)
 
 The download will result in a .zip file which contains 2 CSV files, one for Prime Awards and one for Sub-Awards.
