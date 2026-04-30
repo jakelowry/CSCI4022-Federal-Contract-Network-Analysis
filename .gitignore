@@ -2,4 +2,9 @@
 Contracts_PrimeAwardSummaries.csv
 contracts_cleaned.csv
 contracts_resolved.csv
+contracts_with_hits.csv
+contractor_clusters.csv
+corporate_family_authority_scores.csv
+apriori_frequent_itemsets.csv
+apriori_association_rules.csv
 .DS_Store

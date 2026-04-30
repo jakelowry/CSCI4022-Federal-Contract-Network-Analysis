@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+datasketch
+mlxtend
+scikit-learn
+networkx
+roman
+jupyter
+ipykernel
+requests
